@@ -1,0 +1,4 @@
+﻿"eventId","userId","subject","startDate","endDate","description","themeColor","departmentId","assistantName","applicationId","type","application","department","identityUser"
+"1","null","Michał Boczkowski","2020-11-04T11:25:00","2020-11-19T11:25:00","null","#595c93","1","yhyhyhy","5","Urlop wypoczynkowy","null","null","null"
+"2","null","Michał Boczkowski","2020-11-10T08:49:00","2020-11-27T08:50:00","null","#595c93","1","Beata Nawrotkiewicz","2002","Urlop rehabilitacyjny","null","null","null"
+"1002","null","Michał Boczkowski","2020-11-19T21:10:00","2020-11-21T21:10:00","null","#595c93","1","Maciej Gaczoł","5002","Urlop wypoczynkowy","null","null","null"
